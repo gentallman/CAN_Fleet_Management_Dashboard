@@ -11,6 +11,8 @@ IN PROGESS
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
 </a>
 
+<br>
+
 Developed a **Fleet Management Dashboard** tailored for the Canada region, designed to provide in-depth insights into both driver performance and revenue generation. The dashboard is structured into two comprehensive pages: **Driver Insights** and **Revenue Insights**, each offering key metrics and interactive visuals to help stakeholders make data-driven decisions.
 
 ### **Driver Insights Page:**
