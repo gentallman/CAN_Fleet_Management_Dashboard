@@ -8,8 +8,9 @@
 </p>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiY2JkYTc2YjktMTgxZi00NzMzLThiNDMtNGFjNjI0Y2VhMzdhIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
-  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
+  <img src="https://github.com/user-attachments/assets/9be68370-5e42-499a-b54a-0838f017b289" alt="Live Project" width="120">
 </a>
+
 
 <br>
 
