@@ -1,9 +1,8 @@
 <h2 align="center">
   Fleet Management Dashboard
 </h2>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2edc6b97-01b3-4e95-9cee-36fb8dfee025" width="230">
+  <img src="https://github.com/user-attachments/assets/a32a3efc-302c-4cdb-a1dc-1b43a5c86709" width="430">
 </p>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiY2JkYTc2YjktMTgxZi00NzMzLThiNDMtNGFjNjI0Y2VhMzdhIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
