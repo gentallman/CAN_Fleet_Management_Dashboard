@@ -2,9 +2,9 @@
   Fleet Management Dashboard
 </h2>
 
-<h3 align="center">
-IN PROGESS
-</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2edc6b97-01b3-4e95-9cee-36fb8dfee025" width="230">
+</p>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiY2JkYTc2YjktMTgxZi00NzMzLThiNDMtNGFjNjI0Y2VhMzdhIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
@@ -12,6 +12,8 @@ IN PROGESS
 
 <br>
 <br>
+
+<div align="justify"> 
 
 ### **Problem Statement:**
 
@@ -142,3 +144,19 @@ From the data, it’s evident that customers placing multiple orders significant
 
 Focusing on retention, engagement, and customer satisfaction will help the business capitalize on its base of repeat customers, driving long-term growth and success.
 
+<br>
+
+## Contact
+
+Author: [@Smit Rana](https://www.linkedin.com/in/smit98rana/) 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I+hope+this+work+serves+you+well!" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" >
