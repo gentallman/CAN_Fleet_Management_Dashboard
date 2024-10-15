@@ -12,6 +12,8 @@ IN PROGESS
 </a>
 
 <br>
+<br>
+
 
 Developed a **Fleet Management Dashboard** tailored for the Canada region, designed to provide in-depth insights into both driver performance and revenue generation. The dashboard is structured into two comprehensive pages: **Driver Insights** and **Revenue Insights**, each offering key metrics and interactive visuals to help stakeholders make data-driven decisions.
 
