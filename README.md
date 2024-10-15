@@ -13,9 +13,34 @@ IN PROGESS
 <br>
 <br>
 
-Developed a **Fleet Management Dashboard** tailored for the Canada region, designed to provide in-depth insights into both driver performance and revenue generation. The dashboard is structured into two comprehensive pages: **Driver Insights** and **Revenue Insights**, each offering key metrics and interactive visuals to help stakeholders make data-driven decisions.
+### **Problem Statement:**
 
-Built necessary calculated measures and columns and join different tables with relationship
+In the Canadian fleet management industry, optimizing both driver performance and revenue generation is essential for long-term success. Fleet operators must have a deep understanding of key operational metrics, such as fuel consumption, cost efficiency, and revenue distribution, to ensure smooth and profitable operations. Additionally, fostering customer loyalty and maximizing repeat business is critical to maintaining a competitive edge and driving growth.
+
+For effective decision-making, fleet operators require a comprehensive and interactive dashboard that enables them to monitor and analyze essential KPIs related to driver performance, operational costs, and revenue metrics. Moreover, customer engagement and retention strategies must be aligned with the business's revenue objectives to ensure sustained growth. The current challenge is to provide a clear, actionable insight into both driver behavior and financial performance, along with strategies to boost customer loyalty and retention.
+
+### **Objective:**
+
+The objective of this project is to develop a **Fleet Management Dashboard** for the Canada region that offers actionable insights into both driver performance and revenue generation. The dashboard will have two primary components:
+
+1. **Driver Insights:** 
+   - Track and analyze critical KPIs such as fuel consumption, number of drives, kilometers traveled, fixed costs, and maintenance expenses.
+   - Provide detailed breakdowns by individual drivers and months to allow for in-depth analysis.
+   - Include custom tooltips to offer additional driver-specific metrics such as average fuel efficiency, fuel consumption per kilometer, and more.
+
+2. **Revenue Insights:**
+   - Visualize total revenue, goods value, delivered orders, and weight transported, with year-over-year (YoY) growth metrics.
+   - Identify trends in customer behavior, focusing on repeat orders and one-time customers.
+   - Provide an interactive map to display revenue by province and allow users to drill down into city-level insights.
+   - Incorporate a line chart to show revenue growth by different years and months.
+
+3. **Customer Loyalty Insights:**
+   - Provide insights into customer behavior, particularly the balance between repeat and one-time customers.
+   - Offer actionable recommendations for customer retention strategies, upselling, cross-selling, and loyalty program implementation.
+
+### Data Modeling and Relationship
+
+Implemented the necessary calculated measures and columns to enhance data analysis capabilities. Established relationships between multiple tables to ensure proper data integration and enable seamless analysis across different datasets. This process involved defining the appropriate keys and ensuring the accuracy and integrity of the data model
 
 ![image](https://github.com/user-attachments/assets/d818353b-44ce-475d-93be-37e0d3a5d02c)
 
